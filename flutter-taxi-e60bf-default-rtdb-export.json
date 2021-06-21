@@ -1,0 +1,53 @@
+{
+  "availableDrivers" : {
+    "Ku8zvIjkBfY1cl4tDCXZh6ILIQ12" : {
+      ".priority" : "u0ceu5dj0b",
+      "g" : "u0ceu5dj0b",
+      "l" : [ 49.8980193, 2.2879413 ]
+    },
+    "dOivVrlPnfgAPhGeAhQ2yNHZyor1" : {
+      ".priority" : "u0ceu5dhft",
+      "g" : "u0ceu5dhft",
+      "l" : [ 49.8980004, 2.2880153 ]
+    }
+  },
+  "drivers" : {
+    "Ku8zvIjkBfY1cl4tDCXZh6ILIQ12" : {
+      "car_details" : {
+        "car_color" : "col",
+        "car_model" : "c",
+        "car_number" : "1"
+      },
+      "email" : "driver1@mail.com",
+      "name" : "driver1",
+      "phone" : "123"
+    },
+    "dOivVrlPnfgAPhGeAhQ2yNHZyor1" : {
+      "car_details" : {
+        "car_color" : "color",
+        "car_model" : "model",
+        "car_number" : "123"
+      },
+      "email" : "driver2@mail.con",
+      "name" : "driver2",
+      "phone" : "1234567"
+    }
+  },
+  "users" : {
+    "7FGNFkM5XpQvCm5LYJLDEgg3GyF3" : {
+      "email" : "sacinadia@gmail.com",
+      "name" : "nadia",
+      "phone" : "1234567"
+    },
+    "Le2hNdXn7EOGG3uqfYwtoUm8ILl2" : {
+      "email" : "ssacizakaria@gmail.com",
+      "name" : "zakaria",
+      "phone" : "1234567"
+    },
+    "xmHpb0urrtVSKYHrVr8VK320zkn1" : {
+      "email" : "sacideveloppeur@gmail.com",
+      "name" : "saci",
+      "phone" : "0695065455"
+    }
+  }
+}
